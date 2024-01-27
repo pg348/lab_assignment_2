@@ -1,1 +1,3 @@
 # lab_assignment_2
+
+ADDING NEW LINE TO THE VS CODE ENVIRONMENT
